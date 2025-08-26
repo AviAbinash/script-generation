@@ -1,0 +1,6 @@
+[
+  {
+    "locator": "//input[@id='username']",
+    "target": "<input type='text' name='username' id='username'>"
+  }
+]

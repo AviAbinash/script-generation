@@ -1,0 +1,12 @@
+Home Page:
+   loginPagepagetitle: "login"
+The Internet:
+   FormAuthlinkButtonXPATH: "//a[contains(.,'Form Authentication')]"
+   ElementalSelenium_linkLinkXPATH: "//label[contains(.,'Username')]"
+   backButtonXPATH: ""
+   ver_controlTextBoxXPATH: ""
+   Username_tbTextBoxXPATH: "//input[@id='username']"
+   LoginPage_labelLabelXPATH: "//h2[contains(.,'Login Page')]"
+   Login_ddlDropDownListXPATH: "//i[contains(.,'Login')]"
+   DefaultpagepageTitle: ""
+   messageLabeltext: ""

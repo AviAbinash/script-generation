@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ApplicationSettings>
+    <URL>https://the-internet.herokuapp.com</URL>
+    <APIURL/>
+    <BrowserType>headless Chrome</BrowserType>
+    <EnableDebugLog>False</EnableDebugLog>
+    <WebdriverPath>Na</WebdriverPath>
+    <PrintTextInConsole>False</PrintTextInConsole>
+    <UserName>Sonu</UserName>
+    <ProjectName>action_test_copy</ProjectName>
+    <Incognito>false</Incognito>
+    <EnableCustomReport>true</EnableCustomReport>
+    <EnableScrenshotForSucess>True</EnableScrenshotForSucess>
+    <EnableScrenshotForFailure>True</EnableScrenshotForFailure>
+    <EnableEachStepScreenshot>False</EnableEachStepScreenshot>
+    <EnableVideoCaptureForSuccess>False</EnableVideoCaptureForSuccess>
+    <EnableVideoCaptureForFailure>False</EnableVideoCaptureForFailure>
+    <EnableCompareImage>False</EnableCompareImage>
+    <MaximumTimeInSecondsToWaitForControl>30</MaximumTimeInSecondsToWaitForControl>
+    <MaximumTimeInMilliSecondsToWaitForPage>15000</MaximumTimeInMilliSecondsToWaitForPage>
+    <TimeIntervalInMilliSecondsToWaitForPage>500</TimeIntervalInMilliSecondsToWaitForPage>
+    <DownloadInCurrentDirectory>False</DownloadInCurrentDirectory>
+    <HighLightWebElement>false</HighLightWebElement>
+    <EnableSoftassertion>False</EnableSoftassertion>
+    <EnableFullScreenshot>False</EnableFullScreenshot>
+    <EnableDesktopFullScreenshot>False</EnableDesktopFullScreenshot>
+    <ToEmailAdditionalReceiverList/>
+    <SendEmailForFailurePercentage/>
+    <SubmitResultToTFS>false</SubmitResultToTFS>
+    <StoreScreenshot>False</StoreScreenshot>
+    <ToEmail/>
+    <FromEmail/>
+    <FromPassword/>
+    <LambdaTestBuild/>
+    <LambdaTestURL/>
+    <NetworkLog>False</NetworkLog>
+    <Token>eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjMxODIsInByb2plY3RJZCI6Mjg0NTYsInVzZXJOYW1lIjoiU29udSIsImJhc2VVcmwiOiJodHRwczovL3N0YWdpbmctdjUuYWxnb3NoYWNrLm5ldCIsImlhdCI6MTc1NTA2NTM0MX0.gvrE6lra7ZOKGV1oSmrkrA7O75br2sHyDPFU5cPTr-g</Token>
+    <AutoHealing>False</AutoHealing>
+    <EnablePercy>yes</EnablePercy>
+    <JiraIntegration>False</JiraIntegration>
+    <JiraIntegrationParameters>JiraUrl,Username,Password,ProjectKey,IssueType,ReporterName</JiraIntegrationParameters>
+    <AzureTFSIntegration>False</AzureTFSIntegration>
+    <AzureIntegrationTFSCredentials>OrganisationName,ProjectName,PersonalAccessToken</AzureIntegrationTFSCredentials>
+    <ProfilePath/>
+    <Cookies>False</Cookies>
+    <HubURL>http://192.168.29.57:4444/wd/hub</HubURL>
+    <Type>Selenium</Type>
+    <DownloadPath/>
+    <RetryFailedTestCaseCount>1</RetryFailedTestCaseCount>
+</ApplicationSettings>
